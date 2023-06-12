@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anilsol159
-- 👀 I’m interested in creating python scripts, web development and game development.
+- 👀 I’m interested in creating python scripts, android development and game development.
 - 🌱 I’m currently learning python and trying to make a living out of coding.
 - 💞️ I’m looking to collaborate on python projects and also wish to contribute to open source projects.
 - 📫 You can contact me at email:- coderanil0@gmail.com
