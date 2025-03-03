@@ -90,7 +90,7 @@ I'm a **software engineer and Android developer** with a passion for building in
 
 ## 📬 Let's Connect!  
 🌍 [LinkedIn](https://www.linkedin.com/in/anil-solanki-253398230)  
-📱 [Google Play Store](https://play.google.com/store/developer?id=ASD+Media)  
+📱 [Google Play Store](https://play.google.com/store/apps/developer?id=ASD+Media)  
 📧 [Email](mailto:anil04jtn@gmail.com)  
 🌐 [GitHub](https://github.com/anilsol159)  
 
